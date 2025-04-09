@@ -1,4 +1,3 @@
-# week-4-python-assgn
 def read_and_write_file():
     import os
 
